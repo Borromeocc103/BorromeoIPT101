@@ -1,0 +1,6 @@
+C:\BorromeoIPT101\BorromeoDataBase\BakeShop\bin\Debug\BakeShop.dacpac
+C:\BorromeoIPT101\BorromeoDataBase\BakeShop\bin\Debug\BakeShop.dll
+C:\BorromeoIPT101\BorromeoDataBase\BakeShop\bin\Debug\BakeShop.pdb
+C:\BorromeoIPT101\BorromeoDataBase\BakeShop\obj\Debug\BakeShop.sqlproj.AssemblyReference.cache
+C:\BorromeoIPT101\BorromeoDataBase\BakeShop\obj\Debug\BakeShop.dll
+C:\BorromeoIPT101\BorromeoDataBase\BakeShop\obj\Debug\BakeShop.pdb
