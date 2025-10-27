@@ -1,0 +1,17 @@
+﻿using System.Windows;
+
+namespace BorromeoApp
+{
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Button was CLICKED!", "HEY", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+    }
+}
