@@ -1,0 +1,17 @@
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\bin\Debug\net6.0\BorromeoFramework.deps.json
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\bin\Debug\net6.0\BorromeoFramework.runtimeconfig.json
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\bin\Debug\net6.0\BorromeoFramework.dll
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\bin\Debug\net6.0\BorromeoFramework.pdb
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\bin\Debug\net6.0\BorromeoDomain.dll
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\bin\Debug\net6.0\BorromeoDomain.pdb
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.csproj.AssemblyReference.cache
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.AssemblyInfoInputs.cache
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.AssemblyInfo.cs
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.csproj.CoreCompileInputs.cache
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\Borromeo.67BAB0FA.Up2Date
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.dll
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\refint\BorromeoFramework.dll
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.pdb
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\BorromeoFramework.genruntimeconfig.cache
+D:\BorromeoIPT101Solution\BorromeoIPT101Solution\BorromeoFramework\obj\Debug\net6.0\ref\BorromeoFramework.dll
